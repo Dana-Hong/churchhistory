@@ -11,3 +11,5 @@ Christ is King over history.
 1. Open index.html in your browser
 
 2. Type in code. Finish!
+
+3. There!

@@ -12,4 +12,4 @@ Christ is King over history.
 
 2. Type in code. Finish!
 
-3. Hello
+3. Hello There!
